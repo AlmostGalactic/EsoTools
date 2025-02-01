@@ -9,10 +9,10 @@ Just some tools that  might or might not help you with making esolangs
 
 ## How to use
 
-First you want to import the python library, I have it in a folder called "Tools"
+First you want to import the python library
 
 ```py
-from Tools.EsolangTool import *
+from EsolangTool import *
 ```
 
 ### Stack
